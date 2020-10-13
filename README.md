@@ -26,6 +26,7 @@ XAMPP server
 5. Open your browser and type http://localhost/ or 127.0.0.1
 6. Go to phpmyadmin, then import
 7. On the web files, go to Database folder and import las.sql
+8. On your web browser URL type http://localhost/las
 
 Done.
 
